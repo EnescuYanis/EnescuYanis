@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**EnescuYanis/EnescuYanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering student** working toward a career as a **Software Engineer**. I bridge the gap between high-level code and hardware implementation.
 
-Here are some ideas to get you started:
+* 💻 **Core Focus:** Writing code and building robust software solutions.
+* 🤝 **Current Passion:** I have recently discovered a love for **Open Source**, dedicating my time to contributing to and learning from the global community.
+* 🔌 **Side Hustle:** Beyond pure software, I enjoy tinkering with **electronics** and exploring the intersection of hardware and code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+
+* **Languages:** C/C++, Python, Java 
+* **Hardware:** Arduino, Embedded Systems, Circuit Design
+* **Dev Tools:** Git, Linux, VS Code
